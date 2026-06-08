@@ -325,6 +325,11 @@ hash = "76fb1070a6a4578dafcdce08b7f4c65be43401120e6f356b7b3d8507b596d8b7"
 metafile = true
 
 [[files]]
+file = "mods/feature-recycler.pw.toml"
+hash = "2e7cd0c0fbb163ed61ecf169b59808cbd320971148b7cc9e03c3fa6291527fe3"
+metafile = true
+
+[[files]]
 file = "mods/fix-gpu-memory-leak.pw.toml"
 hash = "c4032dc8c4f85576b7d89f719aa56241fbcdede45d3fc8bad43c86e499d01a67"
 metafile = true
