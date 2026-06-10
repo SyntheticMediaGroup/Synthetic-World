@@ -350,6 +350,11 @@ hash = "609bb98f1b3384e5484cb05fd1ae4b33704ab5994594a0bf183d00a254d285c4"
 metafile = true
 
 [[files]]
+file = "mods/fps-reducer.pw.toml"
+hash = "ce017d458014e11d80c66b0840779531fbdb0089d6d58be62e2ebb3916f8c1ca"
+metafile = true
+
+[[files]]
 file = "mods/from-the-fog.pw.toml"
 hash = "0e8928c9520955db0c3bc90ec383fbc1d237dab364467511c15fe32846abd594"
 metafile = true
