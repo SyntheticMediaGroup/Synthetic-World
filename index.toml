@@ -16,7 +16,7 @@ metafile = true
 
 [[files]]
 file = "mods/additional-enchanted-miner.pw.toml"
-hash = "82f69e5f676a2fcafe0e79ce289d160cc2468d040d8f7115a83b26978d86b9fb"
+hash = "d8691ae51962aee90cefa370c41d5f30f4449c8eabef6ffc69c825e20dcf2beb"
 metafile = true
 
 [[files]]
