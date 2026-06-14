@@ -21,7 +21,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "c0e28d40745671abdda3c2c945e138765ea2996739bbbe0d18261f573e2245de"
+hash = "74bbdad7434bc02ec767c15c0136269f885331601f73fa2365252c24e58c09bd"
 metafile = true
 
 [[files]]
@@ -377,6 +377,11 @@ metafile = true
 [[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "4753a161dd42ce633262fb987bf7805785c6e34db21d67ad647d391af6b3522e"
+metafile = true
+
+[[files]]
+file = "mods/guideme.pw.toml"
+hash = "7cbc557e23729a2ab1a0dfa8832359edb640a9c4b2f1919e7c43cd5c7ccfdf3c"
 metafile = true
 
 [[files]]
